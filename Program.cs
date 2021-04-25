@@ -174,6 +174,7 @@ namespace Nuevoproyecto
                             Console.WriteLine("Agregar a la playlist");
                             ListaPeliculas();
                             Console.WriteLine("Elija una pelicula");
+                            Console.WriteLine("Elija 0 para cancelar");
                             int opcionpelicula = Int16.Parse(Console.ReadLine());
                             if(opcionpelicula == 0){
                                 break;

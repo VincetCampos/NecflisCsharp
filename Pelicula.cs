@@ -11,7 +11,7 @@ public class Pelicula{
     public int Id;
 
     public override string ToString(){
-        return "Id: " + Id + "Titulo: " + Titulo + " Tipo: " + Tipo + " Genero: " + Genero + " Sinopsis: " + Sinopsis;
+        return "Id: " + Id + " Titulo: " + Titulo + " Tipo: " + Tipo + " Genero: " + Genero + " Sinopsis: " + Sinopsis;
     }
 
     public Pelicula(int Id, string Titulo, string Tipo, string Genero, string Sinopsis){
