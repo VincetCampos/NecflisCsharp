@@ -1,0 +1,13 @@
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\bin\Debug\netcoreapp3.1\Nuevoproyecto.exe
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\bin\Debug\netcoreapp3.1\Nuevoproyecto.deps.json
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\bin\Debug\netcoreapp3.1\Nuevoproyecto.runtimeconfig.json
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\bin\Debug\netcoreapp3.1\Nuevoproyecto.runtimeconfig.dev.json
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\bin\Debug\netcoreapp3.1\Nuevoproyecto.dll
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\bin\Debug\netcoreapp3.1\Nuevoproyecto.pdb
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\obj\Debug\netcoreapp3.1\Nuevoproyecto.csprojAssemblyReference.cache
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\obj\Debug\netcoreapp3.1\Nuevoproyecto.AssemblyInfoInputs.cache
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\obj\Debug\netcoreapp3.1\Nuevoproyecto.AssemblyInfo.cs
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\obj\Debug\netcoreapp3.1\Nuevoproyecto.csproj.CoreCompileInputs.cache
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\obj\Debug\netcoreapp3.1\Nuevoproyecto.dll
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\obj\Debug\netcoreapp3.1\Nuevoproyecto.pdb
+C:\Users\JACC1\Desktop\Project C#\Nuevoproyecto\obj\Debug\netcoreapp3.1\Nuevoproyecto.genruntimeconfig.cache
